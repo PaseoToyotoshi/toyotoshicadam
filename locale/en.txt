@@ -1,0 +1,63 @@
+#: locale=en
+
+## Tour
+
+### Description
+tour.description = Visitá Toyotoshi CADAM y conocé los hermosos modelos con la más alta tecnología en el mercado!
+
+### Title
+tour.name = Toyotoshi CADAM
+
+## Skin
+
+### Button
+Button_6B3517BB_64A6_3EE4_41D7_49868CE9F7A9.label = BUTTON
+Button_6B3517BB_64A6_3EE4_41D7_49868CE9F7A9_mobile.label = BUTTON
+Button_6B3DCC00_647A_DF9A_41D5_DC120403F72A.label = PERSPECTIVAS
+Button_6B3DCC00_647A_DF9A_41D5_DC120403F72A_mobile.label = PERSPECTIVAS
+Button_748008CC_648F_B8AA_41C2_97E5C5DE0CD2.label = FOTOS
+Button_748008CC_648F_B8AA_41C2_97E5C5DE0CD2_mobile.label = FOTOS
+Button_750C11A1_648F_A89A_41C9_2E58278A81A6.label = INFO
+Button_750C11A1_648F_A89A_41C9_2E58278A81A6_mobile.label = INFO
+Button_7DE3659A_6911_E2E0_41C3_93316288CBE4.label = CONTACTAR CON VENTAS
+Button_7DE3659A_6911_E2E0_41C3_93316288CBE4_mobile.label = CONTACTAR CON VENTAS
+
+### Multiline Text
+HTMLText_524CEEAF_7E31_E3D9_41D5_A18634B5A288.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 10px rgba(0,0,0,0.6);text-align:left;font-size:3.02013422818792vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:'Segoe UI';"><SPAN STYLE="color:#ffffff;font-size:3.02vmin;font-family:'Exo';"><B><I>CADAM MOTOR SHOW 2021</I></B></SPAN></SPAN></DIV></div>
+HTMLText_524CEEAF_7E31_E3D9_41D5_A18634B5A288_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 5px rgba(0,0,0,0.6);text-align:left;font-size:3.02013422818792vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:'Segoe UI';"><SPAN STYLE="color:#ffffff;font-size:3.02vmin;font-family:'Exo';"><B><I>CADAM MOTOR SHOW 2021</I></B></SPAN></SPAN></DIV></div>
+HTMLText_6BDD8039_64A6_31E4_41D7_D3C38C6C69F2.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 10px rgba(0,0,0,0.6);text-align:left;font-size:7.430000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:'Segoe UI';"><SPAN STYLE="color:#e6392b;font-size:7.43vmin;font-family:'Exo';"><B><I>TOYOTOSHI</I></B></SPAN></SPAN></DIV></div>
+HTMLText_6BDD8039_64A6_31E4_41D7_D3C38C6C69F2_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 5px rgba(0,0,0,0.6);text-align:left;font-size:7.430000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:'Segoe UI';"><SPAN STYLE="color:#e6392b;font-size:7.43vmin;font-family:'Exo';"><B><I>TOYOTOSHI</I></B></SPAN></SPAN></DIV></div>
+HTMLText_7DE3759A_6911_E2E0_41A7_C2659986BA1F.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.0199999999999996vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff0000;font-size:3.02vw;font-family:'Exo';"><B>TOYOTOSHI</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.6584766584766584vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.66vw;font-family:'Exo';"><B>SOCIEDAD ANÓNIMA</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.21vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.1056511056511056vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.11vw;font-family:'Roboto Medium';">Toyotoshi S.A. fue constituida bajo las leyes de la República del Paraguay el 7 de enero de 1969. En la actualidad, con 50 años de arduo trabajo y sacrificio incansable, Toyotoshi S.A. es uno de los conglomerados empresariales privados más importantes en Paraguay, incluyendo unidades de negocio estratégicas, diversificando y extendiéndose a través de un amplio espectro de actividades económicas en el país.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.11vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.1056511056511056vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.11vw;font-family:'Roboto Medium';">Representamos en Paraguay a grandes compañías internacionales, como Toyota Motor Corporation, Daihatsu Motor Company Ltd., Hino Motors, Sony Consumer Electronics, Yokohama, Mitsui OSK Lines, y trabajamos en proyectos conjuntos con Mitsui OSK Lines en el negocio naviero.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.97vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.21vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.45vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_7DE3759A_6911_E2E0_41A7_C2659986BA1F_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:6.11111111111111vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff0000;font-size:6.11vw;font-family:'Exo';"><B>TOYOTOSHI</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.333333333333333vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.33vw;font-family:'Exo';"><B>SOCIEDAD ANÓNIMA</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.33vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.21vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.333333333333333vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.33vw;font-family:'Roboto Medium';">Toyotoshi S.A. fue constituida bajo las leyes de la República del Paraguay el 7 de enero de 1969. En la actualidad, con 50 años de arduo trabajo y sacrificio incansable, Toyotoshi S.A. es uno de los conglomerados empresariales privados más importantes en Paraguay, incluyendo unidades de negocio estratégicas, diversificando y extendiéndose a través de un amplio espectro de actividades económicas en el país.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.33vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.333333333333333vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.33vw;font-family:'Roboto Medium';">Representamos en Paraguay a grandes compañías internacionales, como Toyota Motor Corporation, Daihatsu Motor Company Ltd., Hino Motors, Sony Consumer Electronics, Yokohama, Mitsui OSK Lines, y trabajamos en proyectos conjuntos con Mitsui OSK Lines en el negocio naviero.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.97vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.21vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.45vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:5vw;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+
+## Media
+
+### Title
+album_580E6FF1_79D7_E96F_41B4_D66ACA06F1A9.label = Photo Album IMG_3022
+panorama_7E70076F_75CB_A231_41D6_0996C4DECFAC.label = Toma 11
+panorama_7E70105D_75CB_5E10_41C6_2F8E314B633B.label = Toma 9
+panorama_7E7047E4_75C9_6237_41D7_823ED08C2EC3.label = Toma 5
+panorama_7E704AE5_75CB_6231_41B7_0E132FEFB552.label = Toma 10
+panorama_7E708EFF_75C9_E211_41A8_3871D56E824D.label = Toma 3
+panorama_7E716B8E_75C9_A2F0_41B8_75AFAA205827.label = Toma 4
+panorama_7E71B47E_75CA_A613_41B7_77C6A624CB6A.label = Toma 6
+panorama_7E71D14B_75CA_DE71_41C7_AE44C672FF4F.label = Toma 8
+panorama_7E71D1FA_75CA_DE13_41B2_0E012D8D61B1.label = Toma 7
+panorama_7E7C52AA_75C9_A230_41CB_D231D2A2873C.label = Toma 2
+panorama_7FB9655D_75C9_6611_41D2_974C3DD3D4C8.label = Toma 1
+video_644C52CC_75F7_6277_41C0_B83E5D3251B7.label = electric
+video_66C43B7E_79CC_2955_41CC_4A8451C50F6B.label = lexus red screen
+video_6710C54E_7954_DEB5_41D9_01912E06EC6B.label = lexus
+video_6C5EBB8D_78D4_E9B7_41C9_6B1904A8787A.label = rav4 lightning toma 2
+video_6CD59C49_78FC_2EBF_41D9_6588B0939B9B.label = rav4 lightning toma 2 blue
+video_6D0713AF_78F5_D9F3_41B2_EB17AEE60F7A.label = rav4 lightning toma 2 blue definitive
+
+## Action
+
+### URL
+LinkBehaviour_6771B940_79D4_56AD_41A7_420D3FD54B9D.source = http://www.facebook.com/loremipsum
+LinkBehaviour_6771F940_79D4_56AD_41D5_9B0A8EE59ABC.source = http://twitter.com/loremipsum
+LinkBehaviour_6774C945_79D4_56B7_41CC_41EBC4DC0C23.source = https://www.loremipsum.com
+LinkBehaviour_7F8EAA4B_75FA_A271_41D9_34D6811C0E2B.source = https://www.loremipsum.com
+LinkBehaviour_7F8EBA4B_75FA_A271_41DA_169A2EBF0629.source = http://www.facebook.com/loremipsum
+LinkBehaviour_7F8F5A4B_75FA_A271_41CD_3D8FBE6BBFCA.source = http://twitter.com/loremipsum
